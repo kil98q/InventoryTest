@@ -1,0 +1,10 @@
+C:\Users\killian\source\repos\InventoryTest\InventoryTest\bin\Debug\InventoryTest.exe.config
+C:\Users\killian\source\repos\InventoryTest\InventoryTest\bin\Debug\InventoryTest.exe
+C:\Users\killian\source\repos\InventoryTest\InventoryTest\bin\Debug\InventoryTest.pdb
+C:\Users\killian\source\repos\InventoryTest\InventoryTest\obj\Debug\InventoryTest.csprojResolveAssemblyReference.cache
+C:\Users\killian\source\repos\InventoryTest\InventoryTest\obj\Debug\InventoryTest.Form1.resources
+C:\Users\killian\source\repos\InventoryTest\InventoryTest\obj\Debug\InventoryTest.Properties.Resources.resources
+C:\Users\killian\source\repos\InventoryTest\InventoryTest\obj\Debug\InventoryTest.csproj.GenerateResource.cache
+C:\Users\killian\source\repos\InventoryTest\InventoryTest\obj\Debug\InventoryTest.csproj.CoreCompileInputs.cache
+C:\Users\killian\source\repos\InventoryTest\InventoryTest\obj\Debug\InventoryTest.exe
+C:\Users\killian\source\repos\InventoryTest\InventoryTest\obj\Debug\InventoryTest.pdb
